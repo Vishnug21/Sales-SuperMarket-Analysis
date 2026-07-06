@@ -322,7 +322,7 @@ The dashboard is built using a retail supermarket sales dataset containing:
 
 **Vishnu G**
 
-**Aspiring Data Analyst | Data Engineer | Business Intelligence Developer**
+**Aspiring Data Analyst | Business Intelligence Developer**
 
 ### 📬 Connect with Me
 
